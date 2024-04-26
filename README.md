@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @GenomicScientist
-- 👀 Let's get to the code.
+- 👀 Let's get coding.
 
 <!---
 GenomicScientist/GenomicScientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
